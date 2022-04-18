@@ -234,3 +234,17 @@ text-align: center !important;
         p {font-size: 14px;}
         
     }
+    @media (max-width: 750px) {
+    #Inicio, #Contacto {
+             background-image: url(../images/fondo-proyectos.png) ;
+
+    }
+    #Inicio .input-home p{
+        color: #E20000;
+        border: 1px solid #E20000;
+    }
+    
+    footer a {
+        color: #E20000;
+    }
+    }
