@@ -58,7 +58,7 @@
         </div>
         <div class="row">
             <div class="col-12 mis-proyectos">
-                <a href="proyectos.html" class="btn shadow"> Conoce mis proyectos</a>
+                <a href="proyectos.html" class="btn shadow"> Conoce bbbbmis proyectos</a>
             </div>
         </div>
     </main>
