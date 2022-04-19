@@ -17,8 +17,7 @@
   <header class="container">
     <nav class="navbar navbar-expand-md mb=4">
       <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-          aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <i class="fa-solid fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -62,12 +61,10 @@
             <input type="email" name="txtCorreo" id="txtCorreo" placeholder="Correo" class="form-control">
           </div>
           <div class="mb-3">
-            <input type="text" name="txtTeléfono/Whatsapp" id="txtTeléfono/Whatsapp" placeholder="Teléfono/Whatsapp"
-              class="form-control">
+            <input type="text" name="txtTeléfono/Whatsapp" id="txtTeléfono/Whatsapp" placeholder="Teléfono/Whatsapp" class="form-control">
           </div>
           <div class="mb-3">
-            <textarea type="text" name="txtMensaje" id="txtMensaje" placeholder="Escribe aquí tu mensaje"
-              class="form-control"></textarea>
+            <textarea type="text" name="txtMensaje" id="txtMensaje" placeholder="Escribe aquí tu mensaje" class="form-control"></textarea>
           </div>
           <div class="mb-3">
             <button type="submit" id="btnEnviar" name="btnEnviar" class="btn btn-blanco px-4">ENVIAR </button>
@@ -80,9 +77,9 @@
   <footer class="container mt-5">
     <div class="row">
       <div class="col-12 col-sm-3">
-        <a href="https://github.com/Beludiiorio"target="_blank" title="Github"> 
+        <a href="https://github.com/Beludiiorio" target="_blank" title="Github">
           <i class="fa-brands fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/belen-di-iorio-a04630195/"target="_blank" title="Linkedin">
+        <a href="https://www.linkedin.com/in/belen-di-iorio-a04630195/" target="_blank" title="Linkedin">
           <i class="fa-brands fa-linkedin-in"></i></a>
       </div>
       <div class="col-12 col-sm-3">Sponsor<a href="https://depcsuite.com">DePC Suite</a></div>
@@ -92,7 +89,7 @@
   </footer>
   <div class="whatsapp pt-3 pb-4 px-3">
     <a href="https://api.whatsapp.com/send?phone=541150207014">
-    <i class="fa-brands fa-whatsapp"></i></a>
+      <i class="fa-brands fa-whatsapp"></i></a>
   </div>
 </body>
 
