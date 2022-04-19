@@ -36,7 +36,7 @@
             </li>
           </ul>
           <div class="d-flex">
-            <a class="btn btn-rojo"><i class="fa-solid fa-file-arrow-down"></i> Descargar mi CV bbbbb</a>
+            <a class="btn btn-rojo"><i class="fa-solid fa-file-arrow-down"></i> Descargar mi CV</a>
           </div>
         </div>
       </div>
