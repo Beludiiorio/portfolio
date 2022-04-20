@@ -52,6 +52,7 @@
         <p>Los siguientes son algunos de los trabajos que he realizado: </p>
       </div>
     </div>
+
     <div class="row">
       <div class="col-12 col-sm-4 p-3">
         <div class="proyecto">
@@ -84,6 +85,7 @@
       </div>
     </div>
     <div class="col-12 col-sm-4 p-3">
+      
       <div class="proyecto">
         <img src="images/proyecto-integrador.png" alt="ABM Clientes" class="img-fluid">
         <h2 class="p-3 d-block">PROYECTO INTEGRADOR</h2>
@@ -97,6 +99,48 @@
         </div>
       </div>
     </div>
+
+
+   
+
+
+    <div class="row">
+  <div class="col-12 col-sm-4 p-3">
+<div class="proyecto">
+<img src="images/abmclientes.png" alt="Mistery GameStation-" class="img-fluid">
+<h2 class="p-3 d-block">ABM CLIENTES</h2>
+          <p class="p-3 pb-5 d-block">Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS, PHP, Bootstrap y Json </p>
+            <div class="row my-5">
+            <div class="col-6 ps-4">
+            <a href="file:///C:/Users/maria/Desktop/primerproyecto/index.html" target="_blank" class="btn btn-rojo">Ver online</a>
+            </div>
+            <div class="col-6 text-center">
+              <a href="file:///C:/Users/maria/Desktop/primerproyecto/index.html" target="_blank">Código fuente</a>
+  </div>
+</div>
+</div>
+</div>
+
+
+  <div class="col-12 col-sm-4 p-3">
+<div class="proyecto">
+<img src="images/abmventas.png" alt="Mistery GameStation-" class="img-fluid">
+<h2 class="p-3 d-block">SISTEMA DE GESTIÓN DE VENTAS</h2>
+          <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos. </p>
+            <div class="row my-5">
+            <div class="col-6 ps-4">
+            <a href="file:///C:/Users/maria/Desktop/primerproyecto/index.html" target="_blank" class="btn btn-rojo">Ver online</a>
+            </div>
+            <div class="col-6 text-center">
+              <a href="file:///C:/Users/maria/Desktop/primerproyecto/index.html" target="_blank">Código fuente</a>
+  </div>
+</div>
+</div>
+</div>
+    
+
+
+
   </main>
   <footer class="container mt-5">
     <div class="row">

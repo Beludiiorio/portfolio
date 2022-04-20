@@ -54,7 +54,7 @@
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
                     <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio"
-                        class="img-fluid img-circle">
+                        class="img-fluid ">
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
+                        <h2 class="my-sm-5 text-white co">Stack tecnológico</h2>
                     </div>
                 </div>
                 <div class="row">
