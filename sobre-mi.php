@@ -49,7 +49,7 @@
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
                     <p class="pb-sm-5">Estudiante de programación. </p>
-                    <a href="contacto.html" class="btn btn-rojo">Enviar mensaje</a>
+                    <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
