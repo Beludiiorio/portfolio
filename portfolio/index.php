@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/Bootstrap/bootstrap/css/bootstrap.min.css">
     <script src="css/Bootstrap/bootstrap/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="css/estilos.css">
-    <title>Inicio </title>
+    <title> Inicio </title>
 </head>
 
 <body id="Inicio">
