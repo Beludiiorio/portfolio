@@ -125,11 +125,23 @@ color: #E20000;
 #Sobre-mi img {
     margin: 1em auto;
     display: block;
-    background-color: #fff;
+    background-color: white;
     padding: 10px;
     border-radius: 50%;
     }    
-   
+#tecnologias .card {
+    height: 200px;
+}
+#tecnologias h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+   .mi-foto {
+max-width: 100%;
+height: auto;
+   }
+
    .whatsapp {
        position: fixed;
        right: 70px;
@@ -226,9 +238,10 @@ text-align: center !important;
     #idiomas h2 {
         font-size: 16px;
     }
-    .tecnologias {
-        background-color: #E20000;
-    }
+    .color-gradiente {background: rgb(152,6,6);
+    background: linear-gradient(90deg, rgba(152,6,6,1) 38%, rgba(228,40,40,1) 66%);
+}
+
     @media (max-width:375px){
         h1 {font-size: 16px;}
         p {font-size: 14px;}
