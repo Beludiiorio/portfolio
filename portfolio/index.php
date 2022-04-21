@@ -13,7 +13,7 @@
     <title> Inicio </title>
 </head>
 
-<body id="Inicio">
+<body id="Inicio ">
     <header class="container">
         <nav class="navbar navbar-expand-md mb=4">
             <div class="container-fluid">
