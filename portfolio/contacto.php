@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 
-<body id="Contacto">
+<body id="Contacto"> 
   <header class="container">
     <nav class="navbar navbar-expand-md mb=4">
       <div class="container-fluid">
@@ -50,7 +50,7 @@
     </div>
     <div class="row">
       <div class="col-12 col-sm-6">
-        <p>Te invito a que te contactes enviándome un mensaje o bien por whatsapp.</p>
+        <p> Te invito a que te contactes enviándome un mensaje o bien por whatsapp.</p>
       </div>
       <div class="col-12 col-sm-6">
         <form action="" method="POST">
