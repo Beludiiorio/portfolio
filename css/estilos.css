@@ -61,6 +61,30 @@ h1 {
 border-radius: 14px;
    }
 
+ #Inicio footer, footer a, #Contacto footer , footer a {
+       color: white;
+       font-weight: 100;
+   }
+
+ #Inicio footer .fa-github, #Contacto footer .fa-github {
+       font-size: 30px;
+       color: white;   
+   }
+  #Inicio footer .fa-linkedin-in, #Contacto footer .fa-linkedin-in {
+       color: #ff4a49;
+       background-color: white;
+       font-size: 20px;
+       border: 0px;
+       height: 32px;
+       width: 32px;
+       text-align: center;
+       padding: 8px 0 0 0;
+       border-radius: 80px;
+       margin: 0 8px;
+   }
+
+
+   
 
 
 
@@ -71,7 +95,6 @@ border-radius: 14px;
     background-size: 100%;
     }
   
-
    .proyecto h2 {
 font-size: 16px;
 color: white;
@@ -93,44 +116,21 @@ background-color: #E20000 ;
    .proyecto img {
        height: 208px;
    }
-   #Inicio footer, #Inicio footer a, #Contacto footer a, #Contacto footer {
-       color: white;
-       font-weight: 100;
-   }
+  
  #Proyectos footer, #Proyectos footer a {
      color: #E20000;
  }
-   footer .fa-github {
-       font-size: 30px;
-       color: white;   
-   }
-   footer .fa-linkedin-in{
-       color: #ff4a49;
-       background-color: white;
-       font-size: 20px;
-       border: 0px;
-       height: 32px;
-       width: 32px;
-       text-align: center;
-       padding: 8px 0 0 0;
-       border-radius: 80px;
-       margin: 0 8px;
-   }
+   
   
-   #Proyectos footer .fa-linkedin-in {
+   #Proyectos footer .fa-linkedin-in, #Sobre-mi footer .fa-linkedin-in{
     color: white;
     background-color: #E20000;
 }
-#Proyectos footer .fa-github{
+#Proyectos footer .fa-github, #Sobre-mi footer .fa-github {
 color: #E20000;
 }
-#Sobre-mi .fa-github {
-    color: #E20000;
-}
-#Sobre-mi .fa-linkedin-in {
-    color: white;
-    background-color: #E20000;
-}
+
+
 #Sobre-mi footer, #Sobre-mi footer a {
     color: #E20000
 }
@@ -154,13 +154,16 @@ max-width: 100%;
 height: auto;
    }
 
-   .whatsapp {
+   .whatsapp { /*El whatsapp es para las 4  páginas por igual*/
        position: fixed;
        right: 70px;
        bottom: 0px;
        background-color: #370a6d;
        border-top-left-radius: 10px;
        border-top-right-radius: 10px;
+       width: 60px;
+       padding: 8px 0 15px 0;
+       text-align: center;
     }
        .fa-whatsapp {
            font-size: 32px;
