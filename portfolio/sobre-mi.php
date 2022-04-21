@@ -120,7 +120,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img src="images/mysql.png"
+                            <img src="images/my"
                             class="img-fluid d-block mx-auto" width="90">
                         </div>
                     </div>
