@@ -101,12 +101,6 @@
       </div>
     </div>
 
-
-
-
-
-
-    
     
   </main>
   <footer class="container col-sm-12 mt-5">
