@@ -51,13 +51,13 @@
         </div>
         <div class="row">
             <div class="col-12 col-sm-6 my-4 mt-sm-5 text center offset-sm-3 mb-3">
-                <div class="bienvenida"> 
+                <div class="bienvenida pt-2"> 
                      <p class="p-1"> Bienvenid@ a mi sitio web sobre docencia en sistemas.</p> 
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-12 mis-proyectos">
+            <div class=" mis-proyectos col-12">
                 <a href="proyectos.php" class="btn shadow"> Conoce mis proyectos</a>
             </div>
         </div>
