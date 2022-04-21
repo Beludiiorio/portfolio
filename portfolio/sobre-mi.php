@@ -48,17 +48,17 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Estudiante de programación. </p>
-                    <a href="contacto.html" class="btn btn-rojo">Enviar mensaje</a>
+                    <p class="pb-sm-5">Apasionada por la tecnología y gestión de proyectos. Actualmente estudiante de programación. </p>
+                    <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
                     <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio"
-                        class="img-fluid img-circle">
+                        class=" mi-foto img-fluid ">
                 </div>
             </div>
         </div>
-        <section class="tecnologias">
+        <section id="tecnologias" class="color-gradiente pb-5">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -69,43 +69,43 @@
                     <div class="col-6 col-sm-2 text-center">
                         <div class="py-5 px-4 card mb-4 mb-sm-0 mx-0 ">
                             <h3>Javascript</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                            <img src="images/javascript.jpeg"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                            <img src="images/php.jpg"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>HTML5</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                            <img src="images/html5.png"
+                            class="img-fluid d-block mx-auto" width="70" >
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>React.js</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
+                            <img src="images/react.js.png"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>jQuery</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                            <img src="images/jquery.jpg"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Bootstrap</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                            <img src="images/bootstrap.png"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>
@@ -113,43 +113,43 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="90"
-                                src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                            <img src="images/laravel.png"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                            <img src="images/mysql.png"
+                            class="img-fluid d-block mx-auto" width="90">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>CSS</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/6727/css.png">
+                            <img src="images/css.png"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Git</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1046/git.png">
+                            <img src="images/git.png"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="110"
-                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
+                            <img src="images/apache.png"
+                            class="img-fluid d-block mx-auto" width="120">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="70"
-                                src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                            <img src="images/mercadopago.jpg"
+                                class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>
