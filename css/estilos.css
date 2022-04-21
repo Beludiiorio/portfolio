@@ -2,29 +2,25 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+/* CSS de Contacto */
+
 #Contacto {
 background-image: url("../images/fondo-contacto.png");
 background-repeat: no-repeat;
 background-size: 100%;
 }
-#Proyectos {
-    background-image: url("../images/fondo-proyectos.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    }
-   #Sobre-mi {
-    background-image: url("../images/fondo-proyectos.png");
-    background-repeat: no-repeat;
-    background-size: 100%;    
-   }
+
 nav .nav-link {
     color: #282828;
     }
- nav .active {
+
+nav .active {
     border: 1px solid #E20000;
     border-radius: 25px;
     }
- h1 {
+
+h1 {
     color: #E20000;
     font-size: 36px;
  }
@@ -32,6 +28,7 @@ nav .nav-link {
  color: #6a6a6a;
  font-size: 16px;
  }
+
  textarea {
      height: 150px;
  }
@@ -52,7 +49,10 @@ nav .nav-link {
    color: white !important;
    font-weight: 100;
    border: none;
+  border-radius: 15px;
+  font-weight: 100;
    }
+
    .btn-rojo:hover {
        color: white; 
        background-color: #370a6d;
@@ -60,6 +60,18 @@ nav .nav-link {
    .btn {
 border-radius: 14px;
    }
+
+
+
+
+
+#Proyectos, #Sobre-mi {
+    background-image: url("../images/fondo-proyectos.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+  
+
    .proyecto h2 {
 font-size: 16px;
 color: white;
