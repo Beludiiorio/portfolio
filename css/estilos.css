@@ -5,10 +5,10 @@ body {
                /* CSS de Contacto */
 
 #Contacto, #Inicio { /*Contacto e Inicio tienen la misma imagen de fondo*/  
-background-image: url("../images/fondo-contacto.png");
-background-repeat: no-repeat;
-background-size: 100%;
-}
+    background-image: url("../images/fondo-contacto.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
 
 nav .nav-link {
     color: #282828;
@@ -22,104 +22,112 @@ nav .active {
 h1 {
     color: #E20000;
     font-size: 36px;
- }
+    }
+
  p{
- color: #6a6a6a;
- font-size: 16px;
+    color: #6a6a6a;
+    font-size: 16px;
  }
 
  textarea {
      height: 150px;
- }
+    }
+
  .form-control {
-     border-radius: 14px;
-     
- }
+     border-radius: 14px; 
+    }
+
  .btn-blanco {
-  background-color: white;
- color: #370a6d;
- border: none;
+    background-color: white;
+    color: #370a6d;
+    border: none;
  }
+
  .btn-blanco:hover {
      color: white; 
      background-color: #370a6d;
- }
+    }
+
  .btn-rojo {
     background-color: #E20000;
-   color: white !important;
-   font-weight: 100;
-   border: none;
-  border-radius: 15px;
-  font-weight: 100;
-   }
+    color: white !important;
+    font-weight: 100;
+    border: none;
+    border-radius: 15px;
+    font-weight: 100;
+    }
 
-   .btn-rojo:hover {
-       color: white; 
-       background-color: #370a6d;
+.btn-rojo:hover {
+    color: white; 
+    background-color: #370a6d;
    }
-   .btn {
-border-radius: 14px;
+   
+.btn {
+    border-radius: 14px;
    }
 
  #Contacto footer , footer a, #Inicio footer, footer a { /*El footer y el hipervínculo (a) son iguales tanto para Inicio como para Contacto*/
-       color: white;
-       font-weight: 100;
+    color: white;
+    font-weight: 100;
    }
 
 #Contacto footer .fa-github , #Inicio footer .fa-github { /* El ícono de GitHub es igual en Inicio y en Contacto*/
-       font-size: 30px;
-       color: white;   
+    font-size: 30px;
+    color: white;   
    }
+
 #Contacto footer .fa-linkedin-in, #Inicio footer .fa-linkedin-in { /*El ícono de Linkedin es igual en Inicio y en Contacto*/
-       color: #ff4a49;
-       background-color: white;
-       font-size: 20px;
-       border: 0px;
-       height: 32px;
-       width: 32px;
-       text-align: center;
-       padding: 8px 0 0 0;
-       border-radius: 80px;
-       margin: 0 8px;
+    color: #ff4a49;
+    background-color: white;
+    font-size: 20px;
+    border: 0px;
+    height: 32px;
+    width: 32px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 8px;
    }
 
 
                 /* CSS de Inicio*/
 
-    .cohete {
-        height: 400px;
+.cohete {
+    height: 400px;
     }
-    .cohete:hover{
-        height: 410px;
+
+.cohete:hover {
+    height: 410px;
     }
+
  img {
-        vertical-align: middle;
+    vertical-align: middle;
     }
-    .bienvenida p {
-        color: white;
-        font-size: 19px;
-        border-radius: 50px;
-        font-weight: 600;
-        border: 1px solid white;
+.bienvenida p {
+    color: white;
+    font-size: 19px;
+    border-radius: 50px;
+    font-weight: 600;
+    border: 1px solid white;
     }
-      .p-1 {
-        text-align: center;
-        margin-bottom: 10px;
-        
+
+.p-1 {
+    text-align: center;
+    margin-bottom: 10px;  
     }
 
 a.btn.shadow {
-        color: #370a6d;
-        background-color: white;
-        border-radius: 15px;
-        padding: 5px 12px;
-        text-decoration: none;
-    }
-    a.btn.shadow:hover {
-        color: white;
-        background-color: #370a6d;
+    color: #370a6d;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px 12px;
+    text-decoration: none;
     }
 
+a.btn.shadow:hover {
+    color: white;
+    background-color: #370a6d;
+    }
 
 
                 /* CSS de Proyectos*/
@@ -131,46 +139,46 @@ a.btn.shadow {
     background-size: 100%;
     }
   
-   .proyecto h2 {
-font-size: 16px;
-color: white;
-text-transform: uppercase;
-background-color: #E20000 ;
-   }
-   .proyecto {
-       border: 1px solid #eee;
-       background-color: white;
-       border-radius: 5px;
-   }
+.proyecto h2 {
+    font-size: 16px;
+    color: white;
+    text-transform: uppercase;
+    background-color: #E20000 ;
+    }
+.proyecto {
+    border: 1px solid #eee;
+    background-color: white;
+    border-radius: 5px;
+    }
 
-   #Proyectos h2 {
+#Proyectos h2 {
     background: rgb(198,12,12);
     background: linear-gradient(90deg, rgba(198,12,12,1) 26%, rgba(241,56,23,1) 100%); 
-  }
+    }
 
-    .col-12 p {
+.col-12 p {
     padding-top: 40px;
-}
+    }
 
-   .proyecto p {
-       font-size: 14px;
-       height: 148px ;
+.proyecto p {
+    font-size: 14px;
+    height: 148px ;
+    }
 
-   }
-   .proyecto a {
-       color:#E20000;
-   }
+.proyecto a {
+    color:#E20000;
+    }
+
    .proyecto img {
-       height: 208px;
-   }
+    height: 208px;
+    }
   
-   
  #Proyectos footer, #Proyectos footer a, #Sobre-mi footer, #Sobre-mi footer a /*El footer y el hipervínculo (a) son iguales tanto para Proyectos como para Sobre-mi*/ {
-     color: #E20000;
-    
- }
+    color: #E20000; 
+    }
   
-   #Proyectos footer .fa-linkedin-in {
+
+#Proyectos footer .fa-linkedin-in {
     color: white;
     background-color: #E20000;
     font-size: 20px;
@@ -181,9 +189,10 @@ background-color: #E20000 ;
     height: 32px;
     width: 32px;
     text-align: center;
-}
+    }
 
-
+            /* CSS de Sobre-mi*/
+            
 #Sobre-mi footer .fa-linkedin-in {
     color: white;
     background-color: #E20000;
