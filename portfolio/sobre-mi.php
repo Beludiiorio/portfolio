@@ -17,8 +17,7 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb=4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -53,8 +52,7 @@
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio"
-                        class=" mi-foto img-fluid ">
+                    <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio" class=" mi-foto img-fluid ">
                 </div>
             </div>
         </div>
@@ -69,43 +67,37 @@
                     <div class="col-6 col-sm-2 text-center">
                         <div class="py-5 px-4 card mb-4 mb-sm-0 mx-0 ">
                             <h3>Javascript</h3>
-                            <img src="images/javascript.jpeg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/javascript.jpeg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img src="images/php.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/php.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>HTML5</h3>
-                            <img src="images/html5.png"
-                            class="img-fluid d-block mx-auto" width="70" >
+                            <img src="images/html5.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>React.js</h3>
-                            <img src="images/react.js.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/react.js.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>jQuery</h3>
-                            <img src="images/jquery.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/jquery.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Bootstrap</h3>
-                            <img src="images/bootstrap.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/bootstrap.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>
@@ -113,43 +105,37 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img src="images/laravel.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/laravel.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img src="images/my"
-                            class="img-fluid d-block mx-auto" width="90">
+                            <img src="images/my" class="img-fluid d-block mx-auto" width="90">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>CSS</h3>
-                            <img src="images/css.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/css.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Git</h3>
-                            <img src="images/git.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/git.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img src="images/apache.png"
-                            class="img-fluid d-block mx-auto" width="120">
+                            <img src="images/apache.png" class="img-fluid d-block mx-auto" width="120">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img src="images/mercadopago.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/mercadopago.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>

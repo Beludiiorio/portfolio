@@ -156,10 +156,13 @@ a.btn.shadow:hover {
     background: linear-gradient(90deg, rgba(198,12,12,1) 26%, rgba(241,56,23,1) 100%); 
     }
 
-.col-12 p {
-    padding-top: 40px;
+#Proyectos.col-12 p, #Sobre-mi .col-12 {
+    padding-top: 50px;
     }
 
+    #Contacto .col-12  {
+        padding-top: 0px;
+    }
 .proyecto p {
     font-size: 14px;
     height: 148px ;
@@ -192,7 +195,7 @@ a.btn.shadow:hover {
     }
 
             /* CSS de Sobre-mi*/
-            
+
 #Sobre-mi footer .fa-linkedin-in {
     color: white;
     background-color: #E20000;
@@ -210,7 +213,6 @@ a.btn.shadow:hover {
 color: #E20000;
 font-size: 30px;
 }
-
 
 
 #Sobre-mi img {
