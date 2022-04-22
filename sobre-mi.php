@@ -48,7 +48,7 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5">Apasionada por la tecnología y gestión de proyectos. Actualmente estudiante de programación. </p>
+                    <p class="pb-sm-5"> Apasionada por la tecnología y gestión de proyectos. Actualmente estudiante de programación. </p>
                     <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
@@ -120,7 +120,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img src="images/my"
+                            <img src="images/mysql.png"
                             class="img-fluid d-block mx-auto" width="90">
                         </div>
                     </div>

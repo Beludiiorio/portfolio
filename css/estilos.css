@@ -54,7 +54,7 @@ h1 {
     font-weight: 100;
     border: none;
     border-radius: 15px;
-    font-weight: 100;
+   
     }
 
 .btn-rojo:hover {
@@ -306,10 +306,9 @@ text-align: center !important;
     #idiomas h2 {
         font-size: 16px;
     }
-    .color-gradiente {background: rgb(152,6,6);
-    background: linear-gradient(90deg, rgba(152,6,6,1) 38%, rgba(228,40,40,1) 66%);
-}
-
+    .color-gradiente {background: rgb(187,20,20);
+        background: linear-gradient(90deg, rgba(187,20,20,1) 30%, rgba(222,61,30,1) 53%, rgba(232,63,25,1) 78%);;
+    }
     @media (max-width:375px){
         h1 {font-size: 16px;}
         p {font-size: 14px;}
