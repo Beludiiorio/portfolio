@@ -88,20 +88,30 @@ h1 {
     margin: 0 8px;
    }
 
+@media (max-width:750px) {
+#Contacto {
+    background-image: url("../images/fondo-proyectos.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    } 
+  
 
                 /* CSS de Inicio*/
 
 .cohete {
-    height: 400px;
+    height: 390px;
     }
 
 .cohete:hover {
     height: 410px;
     }
 
+    
  img {
     vertical-align: middle;
     }
+
 .bienvenida p {
     color: white;
     font-size: 19px;
@@ -198,6 +208,9 @@ a.btn.shadow:hover {
     font-size: 30px;
     }
 
+.mis-proyectos {
+    text-align: center !important;
+    }
 
             /* CSS de Sobre-mi*/
 
@@ -212,12 +225,26 @@ a.btn.shadow:hover {
 
 #tecnologias .card {
     height: 200px;
+
+}
+
+#experiencia h2 {
+    color: #370a6d;
+}
+
+.fotos-empresas {
+  filter: grayscale(100%);
+}
+
+.fotos-empresas:hover {
+    filter: none;
 }
 
 
 #tecnologias h3 {
     font-size: 16px;
     text-align: center;
+
 }
 
 
@@ -239,21 +266,9 @@ a.btn.shadow:hover {
     }
 
 
-@media (max-width:750px) {
-#Contacto {
-    background-image: url("../images/fondo-proyectos.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    }
-    } 
-  
+
    
-   
-   
-.mis-proyectos {
-    text-align: center !important;
-    }
-  
+
     
 #idiomas .card {
     background-color: #370A6D;

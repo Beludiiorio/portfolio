@@ -17,8 +17,7 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb=4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa-solid fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -48,13 +47,12 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
-                    <p class="pb-sm-5"> Apasionada por la tecnología y gestión de proyectos. Actualmente estudiante de programación. </p>
+                    <p class="pb-sm-5"> Actualmente realizando cursos y capacitaciones para adentrarme en el mundo de la programación. Te invito a que viajes por mi sitio! </p>
                     <a href="contacto.php" class="btn btn-rojo">Enviar mensaje</a>
 
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio"
-                        class=" mi-foto img-fluid ">
+                    <img src="images/belendiiorio.jpeg" alt="Belen Di iorio" title="Belen Di iorio" class=" mi-foto img-fluid img-circle ">
                 </div>
             </div>
         </div>
@@ -62,50 +60,44 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="my-sm-5 text-white">Stack tecnológico</h2>
+                        <h2 class="my-sm-5 text-white">Conocimientos tecnológicos </h2>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-6 col-sm-2 text-center">
                         <div class="py-5 px-4 card mb-4 mb-sm-0 mx-0 ">
                             <h3>Javascript</h3>
-                            <img src="images/javascript.jpeg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/javascript.jpeg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img src="images/php.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/php.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>HTML5</h3>
-                            <img src="images/html5.png"
-                            class="img-fluid d-block mx-auto" width="70" >
+                            <img src="images/html5.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>React.js</h3>
-                            <img src="images/react.js.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/react.js.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>jQuery</h3>
-                            <img src="images/jquery.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/jquery.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Bootstrap</h3>
-                            <img src="images/bootstrap.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/bootstrap.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>
@@ -113,43 +105,39 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img src="images/laravel.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/laravel.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img src="images/mysql.png"
-                            class="img-fluid d-block mx-auto" width="90">
+                            <img src="images/mysql.png" class="img-fluid d-block mx-auto" width="90">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>CSS</h3>
-                            <img src="images/css.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/css.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Git</h3>
-                            <img src="images/git.png"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/git.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img src="images/apache.png"
-                            class="img-fluid d-block mx-auto" width="120">
+                            <img src="images/apache.png" class="img-fluid d-block mx-auto" width="120">
                         </div>
                     </div>
+
+                
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img src="images/mercadopago.jpg"
-                                class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/mercadopago.jpg" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
                 </div>
@@ -162,97 +150,68 @@
                 </div>
             </div>
             <div class="row shadow bg-white rounded">
-
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/logo-depcsuite.svg" class="img-fluid baw" title="depcsuite">
+                            <img src="images/solimeno.png" class="img-fluid fotos-empresas" title="Solimeno">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Director- Founder</h3>
-                            <h4>DEPCSUITE SA</h4>
-                            <h5>2016 - presente</h5>
-                            <p>Lidero el desarrollo y posicionamiento de la empresa en sus tres líneas de negocio: cloud
-                                services, desarrollo de sistemas y educación IT en Buenos Aires, con sedes en Puerto
-                                Madero
-                                y
-                                Belgrano. Celebración de convenios estratégicos. Desarrollo de nuevos productos.
-                                Coordinación
-                                del área de sistemas y educación. Docente de cursos tecnológicos en: Laravel, PHP, HTML,
-                                CSS,
-                                Javascript, jQuery, AJAX, React.js, Bootstrap, GitLab, HTTP Apache2, SSL, MySQL,
-                                HAProxy,
-                                ProFTPd, virtualización con VMware ESXi, GNU/Linux Debian.</p>
+                            <h3> Administrativa contable </h3>
+                            <h4> Solimeno e hijos S.A </h4>
+                            <h5> 2016 - 2018 </h5>
+                            <p> Recepción y entrega de documentación, control y carga de comprobantes al sistema de gestión, preparación de planillas previas a la liquidación de impuestos. Seguimiento de la facturación entre clientes y proveedores.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/todocash-vertical.svg" class="img-fluid baw" title="TodoCash">
+                            <img src="images/obvio.jpg" class="img-fluid fotos-empresas" title="Obvio indumentaria">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Gerente de sistemas - Co-Founder</h3>
-                            <h4>TodoCash</h4>
-                            <h5>2021 - presente</h5>
-                            <p>Gestión de sistemas para la primera red de cajeros operada por una empresa no financiera
-                                con procesamiento independiente que funciona con billeteras virtuales.</p>
+                            <h3> Vendedora </h3>
+                            <h4> Obvio Indumentaria </h4>
+                            <h5> 2018 - 2019</h5>
+                            <p> Atención al público en el local, planificación con el cliente sobre el envío garantizando la satisfacción del cliente. Mantenimiento de limpieza tanto de la tienda como del depósito. Manejo de caja registradora.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/uba.jpg" class="img-fluid baw" title="Universidad de Buenos Aires">
+                            <img src="images/tiendadelimpieza.png" class="img-fluid fotos-empresas" title="Tienda de limpieza" >
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>Universidad de Buenos Aires</h4>
-                            <h5>ago 2015 - ene 2020</h5>
-                            <p>Planeamiento del proyecto, seguimiento, reuniones de avance, estimación de entregables.
-                                Trato
-                                con clientes y equipos
-                                internos. Desarrollo de nuevos sistemas. Capacitar y organizar el área de desarrollo.
-                                Gestionar los ambientes de
-                                desarrollo. Administrar repositorio. Asignar tareas al equipo.
-                                Tecnologías: Laravel, PHP, HTML, CSS, Javascript, jQuery, AJAX, SQL Server, IIS,
-                                Bootstrap,
-                                Microsoft Project, GitLab.</p>
+                            <h3> Vendedora </h3>
+                            <h4> Tienda de limpieza </h4>
+                            <h5> 2019 - 2021 </h5>
+                            <p> Atención al público en el local, recepción de pedidos y entregas mediante delivery.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/enacom.jpg" class="img-fluid baw" title="enacom">
+                            <img src="images/sublimacion.jpeg" class="img-fluid fotos-empresas" title="Sublimación">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Senior Full Stack</h3>
-                            <h4>ENACOM</h4>
-                            <h5>jul 2012 - jun 2018</h5>
-                            <p>Diseño y desarrollo de sistemas internos para el organismo. Mantenimiento de los sistemas
-                                existentes. Gestión de base de
-                                datos y reportes. Trato con distintos clientes internos y equipos. Reuniones de avance.
-                                Organización del proyecto en
-                                Redmine. Resolución de pedidos mediante sistema de incidencias GLPI.
-                                Tecnologías: PHP, HTML, CSS, jQuery, Debian, AJAX, Javascript, jQuery, MySQL, PHP,
-                                Python,
-                                Mongo DB, PostgreSQL, firma
-                                electrónica, servicios REST, interfaz con SAP, XAMPP.</p>
+                            <h3> Trabajos de Sublimación </h3>
+                            <h4> Manera independiente </h4>
+                            <h5> 2021 - Enero 2022 </h5>
+                            <p> Me dediqué a la Sublimación de prendas, tazas rectas de 11 Oz y cónicas, platos, gorras. </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="certificado">
+                            <img src="images/versatilidad.jpg" class="img-fluid fotos-empresas" title="Versatilidad ">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Consultor Desarrollador Freelance</h3>
-                            <h4>Certificado Digital SA</h4>
-                            <h5>ago 2014 - dic 2016</h5>
-                            <p>Proyecto de desarrollo de sistemas web para los clientes de la consultora.
-                                Tecnologías: PHP, CSS, HTML, jQuery, Javascript, MySQL, WSDL.</p>
+                            <h3> Versatilidad laboral </h3>
+                            <h4> Manera independiente </h4>
+                            <h5> 2014 - Actualidad <h5>
+                            <p> Soy muy observadora  y multifacética desde chica, me gusta aprender cosas nuevas, en estos años en mis tiempos libres me dedico a pintar inmuebles de conocidos o familiares, arreglar o construir estantes, muebles, mediante el manejo de máquinas correspondientes para cada tarea. También me dedico a cortar botellas de vidrio con una máquina, convirtiéndolas en vasos, luego lijarlas y utilizarlas o venderlas.</p>
                         </div>
                     </div>
                 </div>
