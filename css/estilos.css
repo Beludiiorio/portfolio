@@ -188,7 +188,7 @@ a.btn.shadow:hover {
     height: 208px;
     }
   
- #Proyectos footer, #Proyectos footer a, #Sobre-mi footer, #Sobre-mi footer a /*El footer y el hipervínculo (a) son iguales tanto para Proyectos como para Sobre-mi*/ {
+ #Proyectos, #Proyectos footer a, #Sobre-mi footer, #Sobre-mi footer a /*El footer y el hipervínculo (a) son iguales tanto para Proyectos como para Sobre-mi*/ {
     color: #E20000; 
     font-weight: 100 solid;
     padding-bottom: 5px;
@@ -340,35 +340,32 @@ a.btn.shadow:hover {
 
 
 
+             /* Media Queries */
+             
+ @media (max-width: 750px) {
+
+#Inicio, #Contacto {
+    background-image: url(../images/fondo-proyectos.png);
+background-repeat: no-repeat;
+background-size: 100%;
+}
 
 
 
+ }
 
 
 
-
-
-
-
-
-
-
+             
 @media (max-width:375px){
     h1 {font-size: 16px;}
     p {font-size: 14px;}
         
     }
-@media (max-width: 750px) {
- #Inicio, #Contacto {
-    background-image: url(../images/fondo-proyectos.png) ;
-}
 
+ 
 #Inicio .input-home p{
     color: #E20000;
     border: 1px solid #E20000;
     }
     
-footer a {
-    color: #E20000;
-    }
-    }
