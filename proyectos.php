@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> cic </title>
+  <title> Proyectos </title>
   <link rel="stylesheet" href="css/fontawesome/fontawesome-free-6.1.0-web/css/all.min.css">
   <link rel="stylesheet" href="css/fontawesome/fontawesome-free-6.1.0-web/css/fontawesome.min.css">
   <link rel="stylesheet" href="css/Bootstrap/bootstrap/css/bootstrap.min.css">
@@ -100,7 +100,6 @@
         </div>
       </div>
     </div>
-
     
   </main>
   <footer class="container col-sm-12 mt-5">
