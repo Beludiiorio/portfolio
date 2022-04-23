@@ -67,13 +67,13 @@
                     <div class="col-6 col-sm-2 text-center">
                         <div class="py-5 px-4 card mb-4 mb-sm-0 mx-0 ">
                             <h3>Javascript</h3>
-                            <img src="images/javascript.jpeg" class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/javascript.jpeg" class="img-fluid d-block mx-auto" width="80">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img src="images/php.jpg" class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/php.jpg" class="img-fluid d-block mx-auto" width="80">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -111,7 +111,7 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img src="images/mysql.png" class="img-fluid d-block mx-auto" width="90">
+                            <img src="images/mysql.png" class="img-fluid d-block mx-auto" width="80">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
@@ -126,20 +126,37 @@
                             <img src="images/git.png" class="img-fluid d-block mx-auto" width="70">
                         </div>
                     </div>
+
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img src="images/apache.png" class="img-fluid d-block mx-auto" width="120">
+                            <img src="images/apache.png" class="img-fluid d-block mx-auto" width="110">
                         </div>
                     </div>
 
-                
+
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img src="images/mercadopago.jpg" class="img-fluid d-block mx-auto" width="70">
+                            <img src="images/mercadopago.jpg" class="img-fluid d-block mx-auto" width="80">
                         </div>
                     </div>
+
+                    <div class="col-sm-2 col-6 text-center pt-4">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3> Illustrator </h3>
+                            <img src="images/adobeillustrator.jpg" class="img-fluid d-block mx-auto" width="60">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center pt-4">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3> Photoshop </h3>
+                            <img src="images/photoshop.png" class="img-fluid d-block mx-auto" width="90">
+                        </div>
+                    </div>
+
+
+
                 </div>
             </div>
         </section>
@@ -179,7 +196,7 @@
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-6 my-auto d-none d-sm-block">
-                            <img src="images/tiendadelimpieza.png" class="img-fluid fotos-empresas" title="Tienda de limpieza" >
+                            <img src="images/tiendadelimpieza.png" class="img-fluid fotos-empresas" title="Tienda de limpieza">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3> Vendedora </h3>
@@ -198,7 +215,7 @@
                             <h3> Trabajos de Sublimación </h3>
                             <h4> Manera independiente </h4>
                             <h5> 2021 - Enero 2022 </h5>
-                            <p> Me dediqué a la Sublimación de prendas, tazas rectas de 11 Oz y cónicas, platos, gorras, etc.  </p>
+                            <p> Me dediqué a la Sublimación de prendas, tazas rectas de 11 Oz y cónicas, platos, gorras, etc. </p>
                         </div>
                     </div>
                 </div>
@@ -211,15 +228,15 @@
                             <h3> Versatilidad laboral </h3>
                             <h4> Manera independiente </h4>
                             <h5> 2014 - Actualidad <h5>
-                            <p> Soy muy observadora  y multifacética desde chica, me gusta aprender cosas nuevas, en estos años en mis tiempos libres me dedico a pintar inmuebles de conocidos o familiares, arreglar o construir estantes, muebles, mediante el manejo de máquinas correspondientes para cada tarea. También me dedico a cortar botellas de vidrio con una máquina, convirtiéndolas en vasos, luego lijarlas y utilizarlas o venderlas.</p>
+                                    <p> Soy muy observadora y multifacética desde chica, me gusta aprender cosas nuevas, en estos años en mis tiempos libres me dedico a pintar inmuebles de conocidos o familiares, arreglar o construir estantes, muebles, mediante el manejo de máquinas correspondientes para cada tarea. También me dedico a cortar botellas de vidrio con una máquina, convirtiéndolas en vasos, luego lijarlas y utilizarlas o venderlas.</p>
                         </div>
                     </div>
                 </div>
-                    </div>
-                </div>
-               
-                    </div>
-                </div>
+            </div>
+            </div>
+
+            </div>
+            </div>
             </div>
         </section>
         <section id="formacion" class="container">
@@ -235,7 +252,7 @@
                             <img src="images/lenguasvivas.png" class="img-fluid fotos-empresas" title="Lenguas Vivas">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3> Nivel inicial - Primario - Secundario </h3> 
+                            <h3> Nivel inicial - Primario - Secundario </h3>
 
                             <h4>E.N.S en Lenguas Vivas Sofía E. Broquen de Spangenberg</h4>
                             <h5>2000 – 2014</h5>
@@ -249,34 +266,24 @@
                             <img src="images/misericordia.png" class="img-fluid fotos-empresas" title="Misericordia">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Nivel secundario  </h3> <br>
+                            <h3>Nivel secundario </h3> <br>
                             <h4>Colegio nuestra señora de la Misericordia </h4>
                             <h5> 2014 – 2016</h5>
-                            <p> 4to y 5to año <br> 
-                               <a href="https://www.misericordia.edu.ar/" target="_blank">misericordia.edu.ar</a> </p>
+                            <p> 4to y 5to año <br>
+                                <a href="https://www.misericordia.edu.ar/" target="_blank">misericordia.edu.ar</a>
+                            </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-sm-6">
-                    <div class="row">
-                        <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/sin-logo.png" class="img-fluid baw" title="depcsuite">
-                        </div>
-                        <div class="col-12- col-sm-10 p-3">
-                            <h3>Técnico en Informática</h3>
-                            <h4>Colegio Parroquial San Juan XXIII</h4>
-                            <h5>2003 – 2005</h5>
-                            <p>http://colparroquialjuan23.edu.ar</p>
-                        </div>
-                    </div>
-                </div>
+
+            </div>
             </div>
             </div>
         </section>
         <section id="formacion" class="container mb-5">
 
             <section id="idiomas">
-                <div class="container">
+            <div class="container">
                     <div class="row py-5 mx-0">
                         <div class="col-sm-6 col-12 pb-3 pb-sm-0">
                             <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
@@ -300,7 +307,8 @@
                                 <div class="col-8 p-5">
                                     <h2>HOBBIES</h2>
                                     <ul>
-                                        <li>Bicicleta</li>
+                                        <li> Bicicleta </li>
+                                        <li> Escuchar música </li>
                                     </ul>
                                 </div>
                             </div>

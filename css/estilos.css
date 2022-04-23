@@ -221,12 +221,19 @@ a.btn.shadow:hover {
     background-color: white;
     padding: 10px;
     border-radius: 50%;
+    height: auto;
+    max-width: 100%;
     }    
 
 #tecnologias .card {
     height: 200px;
+  
 }
 
+#tecnologias h3 {
+    font-size: 16px;
+    text-align: center;
+}
 .color-gradiente {
     background: rgb(187,20,20);
     background: linear-gradient(90deg, rgba(187,20,20,1) 30%, rgba(222,61,30,1) 53%, rgba(232,63,25,1) 78%);;
@@ -238,23 +245,23 @@ a.btn.shadow:hover {
     font-size: 27px;
 }
 
-#experiencia h3 {
+#experiencia h3, #formacion h3 {
     color:black;
     font-size: 24px;
     font-weight: 600;
 }
 
-#experiencia h4 {
+#experiencia h4, #formacion h4 {
  color: rgb(19, 19, 114);
  font-size: 22px;
 }
 
-#experiencia h5 {
+#experiencia h5, #formacion h5 {
     color: #E20000;
     font-size: 20px;
 }
 
-#experiencia p {
+#experiencia p, #formacion p  {
     color: black;
     font-weight: 450;
 }
@@ -266,14 +273,45 @@ a.btn.shadow:hover {
     filter: none;
 }
 
+#idiomas .card {
+    background-color: #E20000;
+    border-radius: 15px;
+    padding: 40px 0;
+   
+    }
 
-#tecnologias h3 {
-    font-size: 16px;
-    text-align: center;
-
+.card-idioma {
+    border-radius: 15px;
 }
+#idiomas .fa-star:before {
+    color: white;
+    font-size: 120px;
+    }
 
+#idiomas .fa-message:before {
+    color: white;
+    font-size: 120px;
+    }
 
+#idiomas h2 {
+    color: #E20000;
+    font-size: 18px;
+    padding: 0px;   
+    }
+
+    #idiomas ul {
+        color: black;
+        font-weight: 450;
+        padding: 0px;
+        font-size: 16px;
+    
+    }
+
+#idiomas {
+    background-color: #eee;
+    }
+
+    
 .whatsapp { /*El whatsapp es para las 4  páginas por igual*/
     position: fixed;
     right: 70px;
@@ -293,28 +331,6 @@ a.btn.shadow:hover {
 
 
 
-   
-
-    
-#idiomas .card {
-    background-color: #370A6D;
-    border-radius: 15px;
-    padding: 40px 0;
-    }
-
-#idiomas .fa-star:before {
-    color: white;
-    font-size: 120px;
-    }
-
-#idiomas .fa-message:before {
-    color: white;
-    font-size: 120px;
-    }
-
-#idiomas {
-    background-color: #eee;
-    }
 
 
 
@@ -322,21 +338,11 @@ a.btn.shadow:hover {
 
 
 
-#formacion h3 {
-    color: #6A6A6A;
-    font-size: 30px;
-    font-weight: 600;
-    }
 
-#idiomas ul{
-    color: #282828;
-    font-size: 16px;
-    list-style-type: none;
-    }
 
-#idiomas h2 {
-    font-size: 16px;
-    }
+
+
+
 
 
 
