@@ -146,13 +146,13 @@
         <section id="experiencia" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
-                    <h2><i class="fas fa-briefcase"></i> Experiencia laboral</h2>
+                    <h2><i class="fas fa-briefcase"></i> Experiencia laboral </h2>
                 </div>
             </div>
             <div class="row shadow bg-white rounded">
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <div class="col-2 p-6 my-auto d-none d-sm-block">
                             <img src="images/solimeno.png" class="img-fluid fotos-empresas" title="Solimeno">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
@@ -165,7 +165,7 @@
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <div class="col-2 p-6 my-auto d-none d-sm-block">
                             <img src="images/obvio.jpg" class="img-fluid fotos-empresas" title="Obvio indumentaria">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
@@ -178,7 +178,7 @@
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <div class="col-2 p-6 my-auto d-none d-sm-block">
                             <img src="images/tiendadelimpieza.png" class="img-fluid fotos-empresas" title="Tienda de limpieza" >
                         </div>
                         <div class="col-12 col-sm-10 p-3">
@@ -191,20 +191,20 @@
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <div class="col-2 p-6 my-auto d-none d-sm-block">
                             <img src="images/sublimacion.jpeg" class="img-fluid fotos-empresas" title="Sublimación">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3> Trabajos de Sublimación </h3>
                             <h4> Manera independiente </h4>
                             <h5> 2021 - Enero 2022 </h5>
-                            <p> Me dediqué a la Sublimación de prendas, tazas rectas de 11 Oz y cónicas, platos, gorras. </p>
+                            <p> Me dediqué a la Sublimación de prendas, tazas rectas de 11 Oz y cónicas, platos, gorras, etc.  </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
+                        <div class="col-2 p-6 my-auto d-none d-sm-block">
                             <img src="images/versatilidad.jpg" class="img-fluid fotos-empresas" title="Versatilidad ">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
@@ -215,41 +215,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/golshy.jpg" class="img-fluid baw" title="certificado">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Agencia Golshy</h4>
-                            <h5>jul 2011 - dic 2016</h5>
-                            <p>Desarrollo, implementación y mantenimiento de sistemas y páginas Web. Relevamiento de
-                                requisitos. Trato con el cliente.
-                                Desarrollo del Brief de marca y del sitio web. Participación en eventos de networking.
-                                Tecnologías: HTML, CSS, Javasacript, jQuery, MySQL, AJAX, API, Facebook, API Twitter, y
-                                API
-                                Youtube, Drupal, Wordpress.</p>
-                        </div>
                     </div>
                 </div>
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="images/globons.png" class="img-fluid baw" title="globons">
-                        </div>
-                        <div class="col-12 col-sm-10 p-3">
-                            <h3>Desarrollador Back-end y Front-end</h3>
-                            <h4>Globons SRL</h4>
-                            <h5>abr 2010 - ene 2011</h5>
-                            <p>Desarrollo de sistemas web para los distintos proyectos de la empresa.
-                                Tecnologías: ASP.NET, C#, jQuery, AJAX, SQLServer, HTML, CSS.</p>
-                        </div>
+               
                     </div>
                 </div>
             </div>
         </section>
-        <section id="formacion-Ac" class="container">
+        <section id="formacion" class="container">
             <div class="row">
                 <div class="col-12 pt-5 pb-4">
                     <h2><i class="fa-solid fa-graduation-cap"></i> Formación Académica</h2>
@@ -259,27 +232,28 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/ean.jpg" class="img-fluid baw" title="depcsuite">
+                            <img src="images/lenguasvivas.png" class="img-fluid fotos-empresas" title="Lenguas Vivas">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Licenciado en Tecnología</h3>
-                            <h4>Escuela Argentina de Negocios</h4>
-                            <h5>2015 – 2020</h5>
-                            <p>http://www.ean.edu.ar/</p>
+                            <h3> Nivel inicial - Primario - Secundario </h3> 
+
+                            <h4>E.N.S en Lenguas Vivas Sofía E. Broquen de Spangenberg</h4>
+                            <h5>2000 – 2014</h5>
+                            <p> Parte de secundaria <br> <a href="https://spangenberg-caba.infd.edu.ar/sitio/" target="_blank">spangenberg-caba.infd.edu.ar</a> </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="images/unlam.png" class="img-fluid baw" title="depcsuite">
+                            <img src="images/misericordia.png" class="img-fluid fotos-empresas" title="Misericordia">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
-                            <h3>Ingeniería en Informática</h3>
-                            <h4>Universidad Nacional de La Matanza</h4>
-                            <h5>2006 – 2010</h5>
-                            <p>Materias aprobadas 20 de 41, 48%.<br>
-                                http://unlam.edu.ar</p>
+                            <h3>Nivel secundario  </h3> <br>
+                            <h4>Colegio nuestra señora de la Misericordia </h4>
+                            <h5> 2014 – 2016</h5>
+                            <p> 4to y 5to año <br> 
+                               <a href="https://www.misericordia.edu.ar/" target="_blank">misericordia.edu.ar</a> </p>
                         </div>
                     </div>
                 </div>
@@ -299,7 +273,7 @@
             </div>
             </div>
         </section>
-        <section id="formacion-Ac" class="container mb-5">
+        <section id="formacion" class="container mb-5">
 
             <section id="idiomas">
                 <div class="container">
