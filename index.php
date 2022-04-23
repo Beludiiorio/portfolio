@@ -45,8 +45,8 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 mt-4 text-center div-cohete">
-                <a href="proyectos.php" ><img src="images/cohete.svg" target="_blank" class="cohete"></a>
+            <div class="col-12 mt-4 text-center div-hello">
+                <a href="proyectos.php" target="_blank" ><img src="images/hello.svg"  class="hello"></a>
             </div>
         </div>
         <div class="row">

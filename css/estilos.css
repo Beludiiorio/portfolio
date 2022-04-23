@@ -99,14 +99,16 @@ h1 {
 
                 /* CSS de Inicio*/
 
-.cohete {
-    height: 390px;
+.hello {
+    height: 280px;
     }
 
-.cohete:hover {
-    height: 410px;
+.hello:hover {
+    height: 290px;
     }
-
+.div-hello {
+    height: 290px;
+}
     
  img {
     vertical-align: middle;
@@ -307,9 +309,7 @@ a.btn.shadow:hover {
     
     }
 
-#idiomas {
-    background-color: #eee;
-    }
+
 
     
 .whatsapp { /*El whatsapp es para las 4  páginas por igual*/
