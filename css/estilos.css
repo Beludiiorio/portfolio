@@ -5,7 +5,7 @@ body {
                /* CSS de Contacto */
 
 #Contacto, #Inicio { /*Contacto e Inicio tienen la misma imagen de fondo*/  
-    background-image: url("../images/fondo-contacto.png");
+    background-image: url(../images/fondo-contacto.png);
     background-repeat: no-repeat;
     background-size: 100%;
     }
@@ -139,7 +139,7 @@ a.btn.shadow:hover {
 
 
 #Proyectos, #Sobre-mi { /*Proyectos y Sobre-mi tienen la misma imagen de fondo*/
-    background-image: url("../images/fondo-proyectos.png");
+    background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
     }
@@ -339,7 +339,7 @@ a.btn.shadow:hover {
  @media (max-width: 1265px) {
 
 #Inicio, #Contacto {
-    background-image: url("../images/fondo-proyectos.png)";
+    background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100% ;
     }
