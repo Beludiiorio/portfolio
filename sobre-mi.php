@@ -155,7 +155,18 @@
                         </div>
                     </div>
 
-
+                    <div class="col-sm-2 col-6 text-center pt-4">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3> Visual Code </h3>
+                            <img src="images/visualcode.jpg" class="img-fluid d-block mx-auto" width="80">
+                        </div>
+                    </div>
+                    <div class="col-sm-2 col-6 text-center pt-4">
+                        <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
+                            <h3> Drive </h3>
+                            <img src="images/drive.png" class="img-fluid d-block mx-auto" width="80">
+                        </div>
+                    </div>
 
                 </div>
             </div>
