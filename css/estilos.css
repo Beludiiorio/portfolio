@@ -88,13 +88,7 @@ h1 {
     margin: 0 8px;
    }
 
-@media (max-width:750px) {
-#Contacto {
-    background-image: url("../images/fondo-proyectos.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    }
-    } 
+
   
 
                 /* CSS de Inicio*/
@@ -346,26 +340,56 @@ a.btn.shadow:hover {
 
 #Inicio, #Contacto {
     background-image: url(../images/fondo-proyectos.png);
-background-repeat: no-repeat;
-background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+
+nav .nav-link {
+    color: #282828;
+    font-weight: 300;
+    }
+
+
+body {
+    margin: 0%;
+    }
+
+.img-fluid {
+    max-width:100%;
+    height: auto;
+    }
+
+
+#Inicio footer .fa-github, #Contacto footer .fa-github {
+    color: #E20000;
+    font-size: 30px;
+    }
+
+ #Inicio footer .fa-linkedin-in, #Contacto footer .fa-linkedin-in { 
+        color: #E20000
+        }
+
+    
+#Inicio .hello {
+width: 200px;
 }
 
+#Inicio p {
+    color: rgb(19, 19, 114);
+    border: 1px solid;
+}
+#Inicio footer, #Inicio footer a, #Contacto footer, #Contacto footer a { 
+color: #E20000;
+}
 
+#Proyectos footer, #Proyectos footer a, #Sobre-mi footer, #Sobre-mi footer a { 
+    color: #E20000;
+}
 
  }
 
 
 
-             
-@media (max-width:375px){
-    h1 {font-size: 16px;}
-    p {font-size: 14px;}
-        
-    }
 
- 
-#Inicio .input-home p{
-    color: #E20000;
-    border: 1px solid #E20000;
-    }
+        
     
