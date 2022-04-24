@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -17,7 +15,7 @@
   <header class="container">
     <nav class="navbar navbar-expand-md mb=4">
       <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+        <button class="navbar-toggler" type="button" data-bs-toggle="lapse" data-bs-target="#navbarCollapse"
           aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <i class="fa-solid fa-bars"></i>
         </button>
@@ -103,9 +101,7 @@
       </div>
     </div>
 
-
- 
-
+    
   </main>
   <footer class="container col-sm-12 mt-5">
     <div class="row">

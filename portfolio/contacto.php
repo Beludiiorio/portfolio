@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 
@@ -23,18 +21,18 @@
           <i class="fa-solid fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-          <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" aria-current="page" href="index.php">Inicio</a>
+              <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" href="sobre-mi.php">Sobre mi</a>
+              <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre mi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" href="proyectos.php">Proyectos</a>
+              <a class="nav-link py-1 px-3 px-sm-4" href="proyectos.php">Proyectos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4 active" href="contacto.php">Contacto</a>
+              <a class="nav-link py-1 px-3 px-sm-4 active" href="contacto.php">Contacto</a>
             </li>
           </ul>
           <div class="d-flex">
@@ -46,7 +44,7 @@
   </header>
   <main class="container mt-5">
     <div class="row">
-      <div class="col-12 mt-3 mb-5">
+      <div class="col-12 pt-3 col-sm-5">
         <h1>Contacto</h1>
       </div>
     </div>
@@ -54,7 +52,6 @@
       <div class="col-12 col-sm-6">
         <p> Te invito a que te contactes enviándome un mensaje o bien por whatsapp.</p>
       </div>
-      
       <div class="col-12 col-sm-6">
         <form action="" method="POST">
           <div class="mb-3">

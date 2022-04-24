@@ -341,7 +341,7 @@ a.btn.shadow:hover {
 #Inicio, #Contacto {
     background-image: url("../images/fondo-proyectos.png)";
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100% ;
     }
 
 

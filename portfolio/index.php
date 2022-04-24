@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="es">
 
@@ -47,14 +45,14 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 mt-4 text-center div-hello">
-                <a href="proyectos.php"><img src="images/hello1.svg"  class="hello"></a>
+            <div class="col-12 mt-4 text-center div-cohete">
+                <a href="proyectos.php" ><img src="images/cohete.svg" target="_blank" class="cohete"></a>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-sm-6 my-4 mt-sm-5 text center offset-sm-3 mb-3">
                 <div class="bienvenida pt-2"> 
-                     <p class="p-1"> Hola! Bienvenid@ a mi sitio web.</p> 
+                     <p class="p-1"> Bienvenid@ a mi sitio web.</p> 
                 </div>
             </div>
         </div>
