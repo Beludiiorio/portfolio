@@ -336,13 +336,15 @@ a.btn.shadow:hover {
 
              /* Media Queries */
              
- @media (max-width: 750px) {
+ @media (max-width: 1265px) {
 
 #Inicio, #Contacto {
     background-image: url(../images/fondo-proyectos.png);
     background-repeat: no-repeat;
     background-size: 100%;
     }
+
+
 
 nav .nav-link {
     color: #282828;
