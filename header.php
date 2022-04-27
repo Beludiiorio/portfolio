@@ -7,16 +7,16 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0 mt-2">
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" aria-current="page" href="index.php">Inicio</a>
+              <a class="nav-link py-1  px-4 <?php echo $pg == "inicio"? "active":"" ?> " href="index.php">Inicio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" href="sobre-mi.php">Sobre mi</a>
+              <a class="nav-link py-1  px-4 <?php echo $pg == "sobre-mi"? "active":"" ?> " href="sobre-mi.php">Sobre mi</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4" href="proyectos.php">Proyectos</a>
+              <a class="nav-link py-1  px-4 <?php echo $pg == "proyectos"? "active":"" ?> " href="proyectos.php">Proyectos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link py-1  px-4 active" href="contacto.php">Contacto</a>
+              <a class="nav-link py-1  px-  <?php echo $pg == "contacto"? "active":"" ?> " href="contacto.php">Contacto</a>
             </li>
           </ul>
           <div class="d-flex">

@@ -1,4 +1,6 @@
-
+<?php
+$pg="sobre-mi";
+?>
 
 <!DOCTYPE html>
 <html lang="es">
