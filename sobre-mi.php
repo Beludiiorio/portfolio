@@ -1,5 +1,5 @@
 <?php
-$pg="sobre-mi";
+$pg = "sobre-mi";
 ?>
 
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ $pg="sobre-mi";
 </head>
 
 <body id="Sobre-mi">
-<?php include_once ("header.php"); ?>
+    <?php include_once("header.php"); ?>
     <main>
         <div class="container">
             <div class="row">
@@ -271,7 +271,7 @@ $pg="sobre-mi";
         <section id="formacion" class="container mb-5">
 
             <section id="idiomas">
-            <div class="container">
+                <div class="container">
                     <div class="row py-5 mx-0">
                         <div class="col-sm-6 col-12 pb-3 pb-sm-0">
                             <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">

@@ -1,5 +1,5 @@
 <?php
-$pg="contacto";
+$pg = "contacto";
 ?>
 
 <!DOCTYPE html>
@@ -17,8 +17,8 @@ $pg="contacto";
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 
-<body id="Contacto"> 
-<?php include_once ("header.php"); ?>
+<body id="Contacto">
+  <?php include_once("header.php"); ?>
   <main class="container mt-5">
     <div class="row">
       <div class="col-12 mt-3 mb-5">
@@ -29,7 +29,7 @@ $pg="contacto";
       <div class="col-12 col-sm-6">
         <p> Te invito a que te contactes enviándome un mensaje o bien por whatsapp.</p>
       </div>
-      
+
       <div class="col-12 col-sm-6">
         <form action="" method="POST">
           <div class="mb-3">

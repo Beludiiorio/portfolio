@@ -1,5 +1,5 @@
 <?php
-$pg="inicio";
+$pg = "inicio";
 ?>
 
 <!DOCTYPE html>
@@ -18,17 +18,17 @@ $pg="inicio";
 </head>
 
 <body id="Inicio">
-<?php include_once ("header.php"); ?>
+    <?php include_once("header.php"); ?>
     <main class="container">
         <div class="row">
             <div class="col-12 mt-4 text-center div-hello">
-                <a href="proyectos.php"><img src="images/hello1.svg"  class="hello"></a>
+                <a href="proyectos.php"><img src="images/hello1.svg" class="hello"></a>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-sm-6 my-4 mt-sm-5 text center offset-sm-3 mb-3">
-                <div class="bienvenida pt-2"> 
-                     <p class="p-1"> Hola! Bienvenid@ a mi sitio web.</p> 
+                <div class="bienvenida pt-2">
+                    <p class="p-1"> Hola! Bienvenid@ a mi sitio web.</p>
                 </div>
             </div>
         </div>
