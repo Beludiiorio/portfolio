@@ -68,16 +68,16 @@ header("Location: confirmacion_envio.php");
       <div class="col-12 col-sm-6">
         <form action="" method="POST">
           <div class="mb-3">
-            <input type="text" name="txtNombre" id="txtNombre" placeholder="Nombre" class="form-control">
+            <input type="text" name="txtNombre" id="txtNombre" placeholder="Nombre" class="form-control" required>
           </div>
           <div class="mb-3">
-            <input type="email" name="txtCorreo" id="txtCorreo" placeholder="Correo" class="form-control">
+            <input type="email" name="txtCorreo" id="txtCorreo" placeholder="Correo" class="form-control" required>
           </div>
           <div class="mb-3">
-            <input type="text" name="txtTeléfono/Whatsapp" id="txtTeléfono/Whatsapp" placeholder="Teléfono/Whatsapp" class="form-control">
+            <input type="text" name="txtTeléfono/Whatsapp" id="txtTeléfono/Whatsapp" placeholder="Teléfono/Whatsapp" class="form-control" required>
           </div>
           <div class="mb-3">
-            <textarea type="text" name="txtMensaje" id="txtMensaje" placeholder="Escribe aquí tu mensaje" class="form-control"></textarea>
+            <textarea type="text" name="txtMensaje" id="txtMensaje" placeholder="Escribe aquí tu mensaje" class="form-control" required></textarea>
           </div>
           <div class="mb-3">
             <button type="submit" id="btnEnviar" name="btnEnviar" class="btn btn-blanco px-4">ENVIAR </button>
